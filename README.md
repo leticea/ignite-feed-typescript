@@ -25,13 +25,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto de Frontend de React do Ignite de um feed de postagens.
 
-- Canal da [Rocketseat](https://www.rocketseat.com.br/)
+- Módulo ReactJS do Ignite na plataforma da [Rocketseat](https://www.rocketseat.com.br/).
 
 ## 🚀 Como Rodar
 
-- Clone o projeto;
-- Rode npm install (ou yarn install de acordo com a sua configuração);
-- npm run dev (para rodar o projeto na porta indicada);
+- Clone o projeto.
+- Entre na pasta do projeto e rode 'npm install' (use 'yarn install' se for essa a sua configuração).
+- npm run dev (para rodar o projeto na porta indicada).
 
 ## 🤔 Como contribuir
 
